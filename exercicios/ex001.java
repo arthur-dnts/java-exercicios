@@ -1,4 +1,4 @@
-public class Main {
+public class ex001 {
 
     static double calcularSubtotal(double precoUnitario, int quantidade) {
         return precoUnitario * quantidade;
