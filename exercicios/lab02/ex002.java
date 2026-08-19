@@ -4,7 +4,7 @@ public class ex002 {
         // Declaração de pedidos a partir da classe
         ItemPedido item1 = new ItemPedido();
         ItemPedido item2 = new ItemPedido();
-
+        
         item1.descricao = "Teclado";
         item1.precoUnitario = 150.0;
         item1.quantidade = 2;
